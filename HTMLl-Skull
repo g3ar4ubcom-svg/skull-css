@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3D Ghost Skull Card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scene">
+
+    <div class="card">
+
+        <div class="number">13</div>
+
+        <div class="skull">
+
+            <div class="head"></div>
+
+            <div class="eye eye-left"></div>
+            <div class="eye eye-right"></div>
+
+            <div class="nose"></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
